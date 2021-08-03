@@ -5,7 +5,12 @@
 
 Languages and Tools:
 <p>
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/java.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/javascript.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/python.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/sap.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linux.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/atlassian.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/git.svg" />
 </p>
 
