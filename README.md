@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ho87
-- 👀 I’m interested in Coding Java, ABAP and Python
+- 👀 I’m interested in Coding Java, JavaScript, ABAP and Python
 - 🌱 I’m currently learning ABAP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
