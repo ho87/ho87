@@ -30,4 +30,4 @@ I'm an IT professional with a Master's in Business Informatics, passionate about
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### 📈 GitHub Stats
-![ho87's GitHub stats](https://github-readme-stats.vercel.app/api?username=ho87&show_icons=true&theme=radical&hide_border=true)
+![ho87's GitHub stats](https://github-readme-stats.vercel.app/api?username=ho87&show_icons=true&theme=radical&hide_border=true&count_private=true)
